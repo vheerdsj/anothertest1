@@ -1,0 +1,15 @@
+c:\users\steven\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\steven\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\steven\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\steven\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Repos\SomeTests\LectureTest\WebApplication2\bin\WebApplication2.dll
+C:\Repos\SomeTests\LectureTest\WebApplication2\bin\WebApplication2.pdb
+C:\Repos\SomeTests\LectureTest\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Repos\SomeTests\LectureTest\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Repos\SomeTests\LectureTest\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\LectureTest\WebApplication2\bin\WebApplication2.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\LectureTest\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\LectureTest\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\LectureTest\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\LectureTest\WebApplication2\obj\Debug\WebApplication2.pdb
